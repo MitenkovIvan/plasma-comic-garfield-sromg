@@ -2,6 +2,8 @@
 
 Square Root of Minus Garfield Plasma Comic for the KDE Desktop
 
+![preview](https://github.com/MitenkovIvan/plasma-comic-garfield-sromg/raw/main/preview.png)
+
 ## Installation
 
 Remove any existing copy of the *Square Root of Minus Garfield* comic, located at `~/.local/share/plasma/comics/`.
